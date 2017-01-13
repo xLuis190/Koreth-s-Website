@@ -1,0 +1,1 @@
+$.backstretch(['images/img1.jpg','images/img3.jpg','images/img3.jpg'], {duration: 3000, fade: 750});
